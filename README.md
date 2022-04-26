@@ -1,0 +1,4 @@
+- Heyo, I'm Ethel. This is my Github page.
+- There may not be anything here right now, however that will likely change.
+- At the moment I only know C++ but I am looking to expand what I know.
+- I do not bite. Feel free to ask me questions if you want.
